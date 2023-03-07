@@ -1,2 +1,2 @@
-# -Metric-Imperial-Unit-Converter
-This is a simple web-based Metric/Imperial Unit Conversion tool 
+# Metric-Imperial-Unit-Converter
+This is a simple web-based Metric/Imperial Unit Conversion tool that allows users to quickly convert between common length, volume, and mass units. The tool is built using HTML, CSS, and JavaScript and can be easily used by anyone with a web browser. The conversion calculations are done automatically when the user inputs a value and clicks the "Convert" button. The tool supports the conversion of meters to feet, liters to gallons, and kilograms to pounds, and displays the results in an easy-to-read format using cards. The tool is open-source and can be easily customized and improved to meet your needs.
